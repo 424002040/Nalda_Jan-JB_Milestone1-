@@ -194,23 +194,4 @@ df.to_csv("cleaned_dataset.csv", index=False)
 
 print("\nFinal cleaned dataset saved as cleaned_dataset.csv")
 
-# ============================================================
-# REFLECTION
-# ============================================================
-print("\nReflection:")
-print(
-    "Data preprocessing is important because raw data often contains "
-    "missing, duplicate, inconsistent, or invalid values."
-)
-print(
-    "Cleaning the data improves its quality and makes the results "
-    "more reliable."
-)
-print(
-    "Data transformation converts raw values into useful information "
-    "for analysis."
-)
-print(
-    "A clean dataset helps data mining produce more accurate and "
-    "meaningful findings."
-)
+
